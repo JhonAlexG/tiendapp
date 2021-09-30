@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tienda App</string>
+    <string name="txt_Title_Start">Inicio De Sesión</string>
+    <string name="hint_Mail">Escriba Su Correo</string>
+    <string name="hint_Password">Escriba Su Contraseña</string>
+    <string name="btn_Log_In">Iniciar</string>
+    <string name="btn_New_User">Lista de usuarios</string>
+    <string name="txt_Title_List">Listado De Productos</string>
+    <string name="txt_Edit_Product">Agregar</string>
+    <string name="txt_list_user">Listado de usuarios</string>
+    <string name="txt_nombre_preferencia">preferencia</string>
+    <string name="txt_preferencia_login">Login</string>
+    <string name="txt_item_cerrar_sesion">Cerrar sesión</string>
+</resources>
